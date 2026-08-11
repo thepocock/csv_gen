@@ -1,6 +1,8 @@
-# csv_gen
+# lsc_forecast
 
-Sample Python - Circa 2019
+Sample SQL - Circa 2015
+
+## Cohort-Based Lead Maturity Forecasting Model
 
 This Python command-line utility was built to automate the conversion of multi-sheet Excel workbooks into individual files for downstream data processing.
 
