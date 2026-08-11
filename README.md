@@ -1,4 +1,5 @@
 # csv_gen
+
 Sample Python - Circa 2019
 
 This Python command-line utility was built to automate the conversion of multi-sheet Excel workbooks into individual files for downstream data processing.
@@ -9,4 +10,10 @@ The utility uses Click to provide a simple command-line interface and allows the
 
 The script demonstrates:
 
-Python-based data and file automation Excel processing with pandas Automated extraction of multiple worksheets CSV and XLSX generation Dynamic file and directory creation Command-line tooling using Click Elimination of repetitive manual spreadsheet conversion
+- Python-based data and file automation
+- Excel processing with pandas
+- Automated extraction of multiple worksheets
+- CSV and XLSX generation
+- Dynamic file and directory creation
+- Command-line tooling using Click
+- Elimination of repetitive manual spreadsheet conversion
