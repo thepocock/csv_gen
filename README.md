@@ -1,8 +1,8 @@
-# lsc_forecast
+# csv_gen
 
-Sample SQL - Circa 2015
+Sample Python - Circa 2019
 
-## Cohort-Based Lead Maturity Forecasting Model
+## Excel Workbook Splitting Utility
 
 This Python command-line utility was built to automate the conversion of multi-sheet Excel workbooks into individual files for downstream data processing.
 
